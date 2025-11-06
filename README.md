@@ -15,11 +15,14 @@ Dataset link: https://github.com/GovardhanRvp/Banking-Risk-Analysis/blob/main/Ba
 6.Insights & Visualization – Created visual dashboards (Power BI / Tableau) to present findings on customer engagement, financial stability, and risk exposure.
 7.Conclusion & Recommendations – Summarized key risk drivers and provided actionable insights for improved risk management and customer segmentation.
 ## Dashboards
-page-1:<img width="1282" height="719" alt="Dashboard Page-1" src="https://github.com/user-attachments/assets/58cb4340-1956-4715-8ca0-79cf84b5dcd7" />
+page-1:home <img width="1282" height="719" alt="Dashboard Page-1" src="https://github.com/user-attachments/assets/58cb4340-1956-4715-8ca0-79cf84b5dcd7" />
 
-page-2:
-Page-3:
-page-4:
+page-2:Loan Analysis <img width="1279" height="717" alt="Dashboard Page-2" src="https://github.com/user-attachments/assets/7066a433-89eb-4935-9976-4281366a485c" />
+
+Page-3:Deposit Analysis <img width="1278" height="718" alt="Dashboard Page-3" src="https://github.com/user-attachments/assets/f70972d2-9682-4a14-9820-cb4b4efff9bf" />
+
+page-4:Summary <img width="1277" height="718" alt="Dashboard Page-4" src="https://github.com/user-attachments/assets/14d9690d-8b97-4c77-a93c-94b29e429055" />
+
 ## Insights
 ## Deposits and Savings Behavior
 The high correlation between Bank Deposits and Saving Accounts suggests that these may either measure overlapping financial behavior (e.g., total funds a customer keeps in the bank) or that people who actively deposit funds also tend to maintain or grow savings balances
