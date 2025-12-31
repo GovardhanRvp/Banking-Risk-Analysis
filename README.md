@@ -1,9 +1,9 @@
 # Banking-Risk-Analysis
 ## Problem Statement-
 Develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers
-## Solution-
+## Solution
 With our dashboards which are created using Power Bi latest tools helps the company to make a decision based on the applicant's profile like if the applicant is likely to repay the loan then approving the loan otherwise not.
-## About Dataset-
+## About Dataset
 This dataset basically contains information about bank details, various client details.
 Dataset link: https://github.com/GovardhanRvp/Banking-Risk-Analysis/blob/main/Banking.csv
 ## Process
